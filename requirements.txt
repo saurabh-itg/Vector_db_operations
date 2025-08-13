@@ -16,3 +16,5 @@ faiss-cpu
 langchain_chroma
 tiktoken
 langchain-ollama
+langchain_ollama
+streamlit
