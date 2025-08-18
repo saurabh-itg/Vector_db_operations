@@ -18,3 +18,7 @@ tiktoken
 langchain-ollama
 langchain_ollama
 streamlit
+langchain_groq
+fastapi
+langserve
+sse_starlette
