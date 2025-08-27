@@ -22,3 +22,5 @@ langchain_groq
 fastapi
 langserve
 sse_starlette
+langchain-chroma
+langchain_huggingface
